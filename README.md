@@ -17,5 +17,9 @@ OpenStreetMap: Penyedia peta gratis yang digunakan untuk menampilkan peta dalam 
 ![ss maps](https://github.com/user-attachments/assets/e8a87dfb-5e88-43cc-8900-95372b18c4fc)
 
 
-#daftar tempat
+
+
+
+
+# daftar tempat
 ![ss daftar desa](https://github.com/user-attachments/assets/a2bb93a5-28e9-4e7c-94ae-cfafd80246a5)
